@@ -1,0 +1,13 @@
+# Nunca subir datos de clientes ni credenciales
+*.pfx
+*.cer
+*.key
+*.env
+.env*
+secrets/
+datos-clientes/
+exportaciones/
+*.csv
+~$*
+.DS_Store
+Thumbs.db
